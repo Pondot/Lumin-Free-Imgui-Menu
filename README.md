@@ -9,6 +9,10 @@ Lumin is a C++20 Dear ImGui menu framework with a Direct3D 11 demo application. 
 - Windows 10/11 SDK installed through Visual Studio
 
 ImGui, FreeType headers/library, stb_image, and UI font assets are vendored in this repository. The project uses Direct3D headers and libraries from the installed Windows SDK.
+<img width="617" height="407" alt="image" src="https://github.com/user-attachments/assets/190189bf-4e72-4da7-80f8-5370734cebbf" />
+<img width="1399" height="832" alt="image" src="https://github.com/user-attachments/assets/cea960e2-1ac1-4bed-b2aa-35ed064ed648" />
+<img width="1408" height="846" alt="image" src="https://github.com/user-attachments/assets/e50a1c8e-486e-44b3-88a9-24178583ce51" />
+<img width="1466" height="863" alt="image" src="https://github.com/user-attachments/assets/a882d326-7df2-4a81-af8d-770f2ec09eb5" />
 
 ## Build
 
